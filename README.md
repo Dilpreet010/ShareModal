@@ -1,9 +1,9 @@
 #Profile Share Modal
 
-#Overview:
+##Overview:
 This project is a profile share modal designed to showcase a user's profile, including their photo, name, profession, and buttons to share the profile or follow the user. The modal is styled using HTML and CSS, and JavaScript is used to manage interactions.
 
-#Key Features:
+##Key Features:
 1. Profile Picture: A circular profile picture at the top, making the profile visually appealing.
 2. User Details:
    • Name: Displayed prominently below the profile picture.
@@ -16,10 +16,10 @@ This project is a profile share modal designed to showcase a user's profile, inc
    • Rounded corners and shadow effects to enhance the UI.
 5. Interactivity: JavaScript to handle button clicks and potentially open a share dialog or initiate a follow action.
 
-#Technologies Used:
+##Technologies Used:
 • HTML: For the structure of the modal.
 • CSS: For styling, including layout, colors, and fonts.
 • JavaScript: For adding interactivity to the buttons.
 
-#Usage:
+##Usage:
 This modal can be integrated into a personal website or portfolio to allow visitors to share the profile or follow the user on social media. It provides a professional and interactive way to present a user’s profile.
