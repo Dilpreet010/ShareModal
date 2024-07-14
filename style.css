@@ -76,6 +76,14 @@
     cursor: pointer;
     transition: all 0.5s;
 }
+/* .follow{
+    text-decoration: none;
+    color: white;
+    transition: all 0.5;
+}
+.btn-follow .follow:hover{
+    color: #000;
+} */
 .btn-card:hover {
     background: #c4bebe2b;
     color: #131313;
